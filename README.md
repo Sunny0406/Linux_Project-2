@@ -1,2 +1,2 @@
-# Linux_Project-2
+# Linux-Project-2
 Wait Queue Project
